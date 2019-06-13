@@ -1,2 +1,2 @@
-# local
-sistema 
+# CONTROLE
+sistema de controle de alunos
